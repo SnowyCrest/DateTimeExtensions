@@ -1,11 +1,14 @@
+<div align="center">
+
 # DateTimeExtensions
 
 ![DateTimeExtensions Logo](https://github.com/joaomatossilva/DateTimeExtensions/raw/master/assets/datetimeextensions-200-logo.png)
 
 [![NuGet Version](http://img.shields.io/nuget/v/DateTimeExtensions.svg?style=flat)](https://www.nuget.org/packages/DateTimeExtensions/) 
 [![MyGet Pre Release](https://img.shields.io/myget/datetimeextensions/vpre/DateTimeExtensions.svg)](https://www.myget.org/feed/datetimeextensions/package/nuget/DateTimeExtensions)
-[![AppVeyor](https://img.shields.io/appveyor/ci/kappy/datetimeextensions.svg)](https://ci.appveyor.com/project/kappy/datetimeextensions)
 [![GitHub contributors](https://img.shields.io/github/contributors/joaomatossilva/datetimeextensions.svg)](https://github.com/joaomatossilva/DateTimeExtensions)
+
+</div>
 
 ## What is DateTimeExtensions?
 
@@ -27,6 +30,8 @@ Install DateTimeExtensions via NuGet:
 ```
 Install-Package DateTimeExtensions
 ```
+
+[Install NuGet CLI](https://learn.microsoft.com/en-us/nuget/reference/nuget-exe-cli-reference?tabs=windows)
 
 ## Quick Start
 
@@ -96,7 +101,7 @@ For more detailed information, visit our [official documentation](http://www.ksp
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the Apache License. See the [LICENSE](LICENSE.md) file for details.
 
 ## Acknowledgements
 
